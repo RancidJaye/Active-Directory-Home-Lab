@@ -23,23 +23,6 @@ This repository documents the **setup and configuration of a fully functional Ac
 
 <h2>Project Walkthrough:</h2>
 
-<p align="center">
-Installing Windows Server: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Windows Server Installation"/>
-<br />
-<br />
-Setting up Active Directory Domain Services (AD DS):  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="AD DS Setup"/>
-<br />
-<br />
-Creating Organizational Units (OUs) & User Accounts: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="User Management"/>
-<br />
-<br />
-Enforcing Group Policies via GPO:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Group Policy Enforcement"/>
-</p>
-
 <h2>Step-by-Step Implementation</h2>
 
 <h3>1. Installing Windows Server & AD DS</h3>
